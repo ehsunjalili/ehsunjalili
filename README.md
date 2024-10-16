@@ -1,4 +1,4 @@
-## 🌟 Welcome! Glad you're here! Let's build something amazing together.
+## 🌟 Welcome! Glad you're here! Let's build something amazing together (:
 
 ```js
 // Developer Info API Response
