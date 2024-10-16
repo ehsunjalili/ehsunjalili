@@ -21,12 +21,5 @@ const developerInfo = {
 console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
-## FAQs
-**Q: What is your favorite tech stack?**  
-A: I love working with Node.js, Express.js, and MongoDB.
-
-**Q: How can I reach you?**  
-A: You can contact me via [email](mailto:ehsunjalili@gmail.com) or connect with me on [GitHub](https://github.com/ehsunjalili).
-
 
 
