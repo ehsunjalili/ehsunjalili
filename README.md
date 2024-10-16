@@ -22,10 +22,10 @@ console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
 ### ✨ Highlights
-- **Education:** B.Sc. in Computer Engineering - Software Engineering.
-- **Specialization:** Active in Node.js and some related frameworks.
-- **Experience:** Worked on various projects, passionate about developing scalable and efficient applications.
-- **Learning:** Currently improving my skills in Nest.js.
-- **Interests:** Coding, problem-solving, and learning new technologies.
+- I treat every project as if it were my own, putting my heart into the work.
+- Detail-oriented with a focus on doing things in the most structured way.
+- Regularly update and maintain all the projects I've developed.
+- Strong emphasis on performance and security, ensuring key practices are always followed.
+
 
 
