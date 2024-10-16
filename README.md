@@ -6,7 +6,7 @@ const developerInfo = {
   name: "Ehsan Jalili",
   title: "Back-end Developer",
   skills: {
-    languages: ["JavaScript (Node.js)", "HTML", "CSS"],
+    languages: ["JavaScript (Node.js)", "HTML", "CSS", "TS"],
     frameworks: ["Express.js"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
   },
