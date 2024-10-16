@@ -27,5 +27,5 @@ console.log(JSON.stringify(developerInfo, null, 2));
 - Regularly update and maintain all the projects I've developed.
 - Strong emphasis on performance and security, ensuring key practices are always followed.
 
-
+### ⚙️ Tech Stack
 
