@@ -32,5 +32,5 @@ console.log(JSON.stringify(developerInfo, null, 2));
   
 ![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express)
 <br />
-![javascript,typescript](https://skillicons.dev/icons?i=linux,docker,mongodb,mysql,redis)
+![javascript,typescript](https://skillicons.dev/icons?i=,mongodb,redis)
 </div>
