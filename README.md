@@ -22,4 +22,10 @@ console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
 
+### About Me
+- **Education:** B.Sc. in Computer Engineering - Software Engineering.
+- **Specialization:** Active in Node.js and some related frameworks.
+- **Experience:** Worked on various projects, passionate about developing scalable and efficient applications.
+- **Learning:** Currently improving my skills in Nest.js.
+- **Interests:** Coding, problem-solving, and learning new technologies.
 
