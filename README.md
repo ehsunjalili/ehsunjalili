@@ -30,7 +30,7 @@ console.log(JSON.stringify(developerInfo, null, 2));
 ### ⚙️ Tech Stack
 <div align = "center">
   
-![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs)
+![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express)
 <br />
 ![javascript,typescript](https://skillicons.dev/icons?i=linux,docker,mongodb,mysql,redis)
 </div>
