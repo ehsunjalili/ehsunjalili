@@ -21,5 +21,8 @@ const developerInfo = {
 console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
-## Featured Projects
-- [Social Media App](https://github.com/ehsunjalili/social-media): A social media platform built using Node.js and EJS.
+## To-Do List
+- [ ] Complete Nest.js course
+- [ ] Add authentication to the social media project
+- [ ] Start learning TypeScript
+
