@@ -1,6 +1,7 @@
 
 
-##  Welcome! Glad you're here! Let's build something amazing together 
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BE6F7&background=FFFFFF00&random=false&width=443&lines=Hi+There!+I'm+Mostafa+Memari+%E2%9C%8C%EF%B8%8F;Welcome+To+My+github+Page](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0078d7&background=FFFFFF00&random=false&width=690&lines=Welcome!+I%27m+Ehsan+Jalili+%EF%B8%8F;Glad+you%27re+here!+Let%27s+create+something+amazing+together))](#)
+
 
 
 ```js
