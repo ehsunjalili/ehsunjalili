@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0078d7&background=FFFFFF00&random=false&width=690&lines=Welcome!+I%27m+Ehsan+Jalili+%EF%B8%8F;Glad+you%27re+here!+Let%27s+create+something+amazing+together)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=2000&color=0078d7&background=FFFFFF00&random=false&width=690&lines=Welcome!+I%27m+Ehsan+Jalili+%EF%B8%8F;Glad+you%27re+here!+Let%27s+create+something+amazing+together)](#)
 
 ```js
 // Developer Info API Response
