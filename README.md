@@ -1,16 +1,23 @@
-## Hi there 👋
+## Developer Info API
 
-<!--
-**ehsunjalili/ehsunjalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+// Developer Info API Response
+const developerInfo = {
+  name: "Ehsan Jalili",
+  title: "Back-end Developer",
+  education: "B.Sc. in Computer Engineering (Software)",
+  skills: {
+    languages: ["JavaScript (Node.js)", "HTML", "CSS"],
+    frameworks: ["Express.js", "Nest.js"],
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "Linux"],
+  },
+  currentlyLearning: "Advanced Node.js concepts",
+  contact: {
+    github: "https://github.com/ehsunjalili",
+    email: "youremail@example.com"
+  },
+  hobbies: ["Coding", "Problem Solving", "Learning new technologies"]
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(JSON.stringify(developerInfo, null, 2));
