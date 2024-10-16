@@ -28,4 +28,9 @@ console.log(JSON.stringify(developerInfo, null, 2));
 - Strong emphasis on performance and security, ensuring key practices are always followed.
 
 ### ⚙️ Tech Stack
-
+<div align = "center">
+  
+![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs)
+<br />
+![javascript,typescript](https://skillicons.dev/icons?i=linux,docker,mongodb,mysql,redis)
+</div>
