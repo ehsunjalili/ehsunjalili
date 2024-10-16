@@ -8,7 +8,7 @@ const developerInfo = {
   skills: {
     languages: ["JavaScript (Node.js)", "HTML", "CSS", "TS"],
     frameworks: ["Express.js"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    databases: ["MongoDB", "MySQL", "Redis"],
   },
   currentlyLearning: "Learning Nest.js",
   contact: {
@@ -32,5 +32,5 @@ console.log(JSON.stringify(developerInfo, null, 2));
   
 ![javascript,typescript](https://skillicons.dev/icons?i=js,ts,nodejs,express)
 <br />
-![javascript,typescript](https://skillicons.dev/icons?i=,mongodb,redis)
+![javascript,typescript](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis)
 </div>
