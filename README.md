@@ -21,5 +21,7 @@ const developerInfo = {
 console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## About Me
+I'm a passionate back-end developer with a keen interest in building scalable applications. I'm currently diving deeper into the world of **Node.js** and **Nest.js**. When I'm not coding, you'll find me exploring new technologies or solving coding challenges.
+
 
