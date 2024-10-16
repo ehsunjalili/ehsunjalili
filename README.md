@@ -21,7 +21,12 @@ const developerInfo = {
 console.log(JSON.stringify(developerInfo, null, 2));
 ```
 
-## About Me
-I'm a passionate back-end developer with a keen interest in building scalable applications. I'm currently diving deeper into the world of **Node.js** and **Nest.js**. When I'm not coding, you'll find me exploring new technologies or solving coding challenges.
+## FAQs
+**Q: What is your favorite tech stack?**  
+A: I love working with Node.js, Express.js, and MongoDB.
+
+**Q: How can I reach you?**  
+A: You can contact me via [email](mailto:ehsunjalili@gmail.com) or connect with me on [GitHub](https://github.com/ehsunjalili).
+
 
 
