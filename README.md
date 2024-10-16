@@ -8,7 +8,7 @@ const developerInfo = {
   skills: {
     languages: ["JavaScript (Node.js)", "HTML", "CSS", "TS"],
     frameworks: ["Express.js"],
-    databases: ["MongoDB", "MySQL", "Redis"],
+    databases: ["MongoDB", "MySQL", "Redis, PostgreSQL"],
   },
   currentlyLearning: "Learning Nest.js",
   contact: {
