@@ -52,7 +52,8 @@ Definitely! I'm always interested in contributing to meaningful open-source proj
 At the moment, I'm expanding my knowledge in Nest.js, which is a progressive Node.js framework, as well as diving deeper into improving performance and security practices in my development workflow.
 
 #### 5. How can I contact you?
-Feel free to reach out to me via my [GitHub](https://github.com/ehsunjalili), or email me directly at ehsunjalili@gmail.com. I'll try to respond as soon as possible.
+Feel free to reach out to me via my GitHub, or email me directly at ehsunjalili@gmail.com. I'll try to respond as soon as possible. For a quicker response, you can also contact me on Telegram: [@ehsunjalili](https://t.me/ehsunjalili).
+
 
 
 
