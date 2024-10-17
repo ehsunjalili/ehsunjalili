@@ -35,3 +35,23 @@ console.log(JSON.stringify(developerInfo, null, 2));
 <br />
 ![javascript,typescript](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis)
 </div>
+
+### ❓ FAQs
+
+#### 1. What technologies do you primarily work with?
+I mainly work with Node.js and its related frameworks such as Express.js. I'm also proficient in working with databases like MongoDB, PostgreSQL, and Redis.
+
+#### 2. Do you take freelance or collaborative projects?
+Yes, I am open to freelance opportunities and collaborations. You can contact me through my [GitHub profile](https://github.com/ehsunjalili) or directly via email: ehsunjalili@gmail.com.
+
+#### 3. Are you open to contributing to open-source projects?
+Definitely! I'm always interested in contributing to meaningful open-source projects that help developers and the community grow.
+
+#### 4. What are you currently learning?
+At the moment, I'm expanding my knowledge in Nest.js, which is a progressive Node.js framework, as well as diving deeper into improving performance and security practices in my development workflow.
+
+#### 5. How can I contact you?
+Feel free to reach out to me via my [GitHub](https://github.com/ehsunjalili), or email me directly at ehsunjalili@gmail.com. I'll try to respond as soon as possible.
+
+
+
