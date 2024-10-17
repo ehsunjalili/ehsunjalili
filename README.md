@@ -42,7 +42,8 @@ console.log(JSON.stringify(developerInfo, null, 2));
 I mainly work with Node.js and its related frameworks such as Express.js. I'm also proficient in working with databases like MongoDB, PostgreSQL, and Redis.
 
 #### 2. Do you take freelance or collaborative projects?
-Yes, I am open to freelance opportunities and collaborations. You can contact me through my [GitHub profile](https://github.com/ehsunjalili) or directly via email: ehsunjalili@gmail.com.
+Yes, I am open to freelance opportunities and collaborations. You can contact me through my [GitHub profile](https://github.com/ehsunjalili), directly via email: ehsunjalili@gmail.com, or on Telegram: [@ehsunjalili](https://t.me/ehsunjalili).
+
 
 #### 3. Are you open to contributing to open-source projects?
 Definitely! I'm always interested in contributing to meaningful open-source projects that help developers and the community grow.
